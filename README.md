@@ -1,1 +1,1 @@
-# Ether-1-Rebranding
+# Ether-1-Branding
