@@ -14,15 +14,15 @@ Node Types
 
 Service Node (SN)
 
-Responsibilities: Acts as a data relay and secures the Ether-1 blockchain.
+Responsibilities: Act as a data relay and secure the Ether-1 blockchain.
 
-Masternode (SN)
+Masternode (MN)
 
-Responsibilities: Provides storage and processing resources to the network and secures the Ether-1 blockchain.
+Responsibilities: Provide storage and processing resources to the network and secure the Ether-1 blockchain.
 
 Gateway Node (GN)
 
-Responsibilities: Provides storage and processing resources to the network, secures the Ether-1 blockchain and acts a gateway to all decentrally hosted ethoFS data on the network.
+Responsibilities: Provide storage and processing resources to the network, secure the Ether-1 blockchain and act a gateway to all decentrally hosted ethoFS data on the network.
 
 **By Dev-James**
 
