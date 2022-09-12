@@ -1,6 +1,6 @@
-# Ether-1-Branding
+# Etho Protocol-Branding
 
-## This file contains snippets of write ups about Ether-1.
+## This file contains snippets of write ups about Etho Protocol.
 
 #### These are intended for use in marketing/promotional cases.
 
@@ -14,16 +14,14 @@ Node Types
 
 Service Node (SN)
 
-Responsibilities: Act as a data relay and secure the Ether-1 blockchain.
+Responsibilities: Act as a data relay and secure the Etho Protocol blockchain.
 
 Masternode (MN)
 
-Responsibilities: Provide storage and processing resources to the network and secure the Ether-1 blockchain.
+Responsibilities: Provide storage and processing resources to the network and secure the Etho Protocol blockchain.
 
 Gateway Node (GN)
 
-Responsibilities: Provide storage and processing resources to the network, secure the Ether-1 blockchain and act a gateway to all decentrally hosted ethoFS data on the network.
-
-**By Dev-James**
+Responsibilities: Provide storage and processing resources to the network, secure the Etho Protocol blockchain and act a gateway to all decentrally hosted ethoFS data on the network.
 
 ---
